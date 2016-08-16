@@ -1,4 +1,4 @@
 applications:
-- name: helion-hello-node
+- name: helion-hello-node-env
   description : Simple Hello World node app
   memory: 32M
